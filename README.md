@@ -23,7 +23,7 @@ the steps that is necessary to obtain an application id and REST API Keys.
 First, you'll need to require the package with Composer:
 
 ```sh
-composer require hafizhassan/onesignal-laravel
+composer require hafizhassan/onesig-laravel
 ```
 
 Afterwards, run `composer update` from your command line.
