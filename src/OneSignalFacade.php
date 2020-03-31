@@ -1,6 +1,6 @@
 <?php
 
-namespace Hafizhassan\OneSig;
+namespace Hafizhassan\OneSignal;
 
 use Illuminate\Support\Facades\Facade;
 
