@@ -1,6 +1,6 @@
 <?php
 
-namespace Berkayk\OneSignal;
+namespace Hafizhassan\OneSig;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ConnectException;
