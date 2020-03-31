@@ -1,6 +1,6 @@
 <?php
 
-namespace Berkayk\OneSignal;
+namespace Hafizhassan\OneSig;
 
 use Illuminate\Support\ServiceProvider;
 
