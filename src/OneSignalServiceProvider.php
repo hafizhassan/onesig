@@ -41,7 +41,7 @@ class OneSignalServiceProvider extends ServiceProvider
             return $client;
         });
 
-        $this->app->alias('onesignal', 'Berkayk\OneSignal\OneSignalClient');
+        $this->app->alias('onesignal', 'Hafizhassan\OneSig\OneSignalClient');
     }
 
     public function provides() {
