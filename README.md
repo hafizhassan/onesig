@@ -35,7 +35,7 @@ Then, update `config/app.php` by adding an entry for the service provider.
 ```php
 'providers' => [
 	// ...
-	Hafizhassan\OneSig\OneSignalServiceProvider::class
+	Hafizhassan\OneSignal\OneSignalServiceProvider::class
 ];
 ```
 
@@ -44,7 +44,7 @@ Then, register class alias by adding an entry in aliases section
 ```php
 'aliases' => [
 	// ...
-	'OneSignal' => Hafizhassan\OneSig\OneSignalFacade::class
+	'OneSignal' => Hafizhassan\OneSignal\OneSignalFacade::class
 ];
 ```
 
