@@ -1,6 +1,6 @@
 <?php
 
-namespace Hafizhassan\OneSig;
+namespace Hafizhassan\OneSignal;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -41,7 +41,7 @@ class OneSignalServiceProvider extends ServiceProvider
             return $client;
         });
 
-        $this->app->alias('onesignal', 'Hafizhassan\OneSig\OneSignalClient');
+        $this->app->alias('onesignal', 'Hafizhassan\OneSignal\OneSignalClient');
     }
 
     public function provides() {
