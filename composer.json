@@ -20,10 +20,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Berkayk\\OneSignal\\OneSignalServiceProvider"
+        "Hafizhassan\\OneSig\\OneSignalServiceProvider"
       ],
       "aliases": {
-        "OneSignal": "Berkayk\\OneSignal\\OneSignalFacade"
+        "OneSignal": "Hafizhassan\\OneSig\\OneSignalFacade"
       }
     }
   },
