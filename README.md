@@ -1,4 +1,5 @@
 Forked from berkayk/laravel-onesignal
+fix for laravel 7.3 cannot composer install
 
 
 # OneSignal Push Notifications for Laravel
